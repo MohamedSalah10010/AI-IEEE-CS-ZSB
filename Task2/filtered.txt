@@ -1,0 +1,15 @@
+id, name, age
+1, Bahnasawe, 50
+2, Almohamdy, 36
+3, Maher, 49
+4, Sharaf, 24
+6, Alsayed, 53
+7, AyaKh, 26
+8, AyaM, 23
+9, Basmala, 19
+10, Hamed, 22
+12, Marawany, 48
+13, Samir, 22
+14, Ola, 26
+15, ElRafee, 32
+17, Sara, 21
